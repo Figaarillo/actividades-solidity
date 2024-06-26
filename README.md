@@ -1,7 +1,13 @@
-# Actividades Solidity
+<h1 align="center">Actividades Solidity</h1>
 
-1. Introducción a Blockchain y Solidity
+<details>
+<summary>Introducción a Blockchain y Solidity</summary>
+
    ![actividad-01](assets/actividad-01.png)
+</details>
 
-2. Fundamentos de Solidity
+<details>
+<summary>Fundamentos de Solidity</summary>
+
    ![actividad-02](assets/actividad-02.png)
+</details>
