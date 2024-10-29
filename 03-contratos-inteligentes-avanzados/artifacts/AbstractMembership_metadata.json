@@ -1,0 +1,106 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fee",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_member",
+						"type": "address"
+					}
+				],
+				"name": "isMember",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "payFee",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"03-contratos-inteligentes-avanzados/Membresia-Abstracta.sol": "AbstractMembership"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"03-contratos-inteligentes-avanzados/IMembresia.sol": {
+			"keccak256": "0x18308c8db7868b52fd10e5317b2f00c85a142fc6cc92985192fa2f955b7a300d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://880bd3843352654b040d5fad09d9a45d62082f4a1c9f0761545b38bc4fe2602b",
+				"dweb:/ipfs/QmTtPfXoZxPM62LfSSNL3Ru7bU1dEm2U4BqV46fvVXnoi7"
+			]
+		},
+		"03-contratos-inteligentes-avanzados/Membresia-Abstracta.sol": {
+			"keccak256": "0x73b32f34b1ebe5e09d29ff4672e0bdc8be1dcf6a833f337cedd4cc19c889202c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://918ca4b855e1fee123376bfea09ea6a40d99c3873b7004a9cade1201c7a529fd",
+				"dweb:/ipfs/QmcexjDCR5ChX2DegAfP2EwcsM2SDRzX3PfP8QzECLCSgY"
+			]
+		}
+	},
+	"version": 1
+}
