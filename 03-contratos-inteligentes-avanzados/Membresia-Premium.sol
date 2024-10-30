@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
-import "./Membresia-Base.sol";
+import "./Membresia_Base.sol";
 
 contract PremiumMembership is MembershipBase {
     uint public premiumFee;
