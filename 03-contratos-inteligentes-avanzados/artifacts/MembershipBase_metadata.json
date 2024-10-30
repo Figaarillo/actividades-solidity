@@ -114,7 +114,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"03-contratos-inteligentes-avanzados/Membresia-Base.sol": "MembershipBase"
+			"03-contratos-inteligentes-avanzados/Membresia_Base.sol": "MembershipBase"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -128,12 +128,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"03-contratos-inteligentes-avanzados/Membresia-Base.sol": {
-			"keccak256": "0x450f1a8adcda458ce9eeb32da9aea9c39bb9dcdb9e06b0819e72a6a7aae1d694",
+		"03-contratos-inteligentes-avanzados/Membresia_Base.sol": {
+			"keccak256": "0xe743d42f4ba7dd62cb9440b263ba10edfdd3418adbd2321c12034b0a9fef40b4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b6a30247980a45b976097ef9de34a587050e65aa983819b62efd2fae77d66e53",
-				"dweb:/ipfs/QmXzGkehinwDcCCeiWCsHnSHKfeNM7sPtpNA86QtcGwyZ6"
+				"bzz-raw://25e0c527916181c1603e3b92dea41e4eb0bf02b48a65da9fa32273473f655f25",
+				"dweb:/ipfs/QmWUSK4mFq7tuVC6v8gu86sR2cZivxWbNjRksat634uecV"
 			]
 		}
 	},

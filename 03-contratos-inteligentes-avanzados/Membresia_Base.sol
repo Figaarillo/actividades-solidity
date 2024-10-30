@@ -2,7 +2,7 @@
 pragma solidity ^0.8.24;
 
 contract MembershipBase {
-    uint public fee;
+    uint public fee = 10;
     address public owner;
     mapping(address => bool) public members;
 
